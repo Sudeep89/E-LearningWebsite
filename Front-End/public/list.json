@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Software Engineering",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./software-engineering.png"
+    },
+    {
+        "id": 2,
+        "name": "Operating System",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./Operating system.png"
+    },
+     {
+        "id": 3,
+        "name": "C Programming ",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./C.png"
+    },
+    {
+        "id": 4,
+        "name": "C++ Programming ",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./C++.png"
+    },
+    {
+        "id": 5,
+        "name": "Internat of Thing",
+        "title":"Computer Science & Engineering",
+        "price":50,
+        "category":"Technology",
+        "image":"./IOT.png"
+    },
+    {
+        "id": 6,
+        "name": "C++ with OOPS",
+        "title":"Computer Science & Engineering",
+        "price":100,
+        "category":"Programming",
+        "image":"./C++.png"
+    },
+    {
+        "id": 7,
+        "name": "Java SE",
+        "title":"Computer Science & Engineering",
+        "price":150,
+        "category":"Programming",
+        "image":"./JAVA.png"
+    },
+     {
+        "id": 8,
+        "name": "HTML",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./html.png"
+    },
+    {
+        "id": 9,
+        "name": "CSS-Style",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./css.png"
+    },
+    {
+        "id": 10,
+        "name": "React JS Library",
+        "title":"Computer Science & Engineering",
+        "price":200,
+        "category":"Development",
+        "image":"./React.png"
+    },
+    {
+        "id": 11,
+        "name": "JavaScript Basic",
+        "title":"Computer Science & Engineering",
+        "price":0,
+        "category":"Free",
+        "image":"./js.png"
+    },
+    {
+        "id": 12,
+        "name": "Networking",
+        "title":"Computer Science & Engineering",
+        "price":150,
+        "category":"Technology",
+        "image":"./Networking.png"
+    }
+]

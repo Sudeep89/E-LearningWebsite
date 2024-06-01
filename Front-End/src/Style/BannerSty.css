@@ -1,0 +1,12 @@
+.imgAnimation {
+  animation: heal 5s ease-in-out infinite linear;
+}
+
+@keyframe heal {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(2);
+  }
+}
