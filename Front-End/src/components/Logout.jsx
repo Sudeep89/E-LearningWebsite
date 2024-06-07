@@ -1,7 +1,7 @@
 import React from "react";
 import { useAuth } from "../context/AuthProvider";
 import toast from "react-hot-toast";
-import { set } from "react-hook-form";
+// import { set } from "react-hook-form";
 
 function Logout() {
   const [AuthUser, setAuthUser] = useAuth();

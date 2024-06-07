@@ -41,7 +41,7 @@ function SignUp() {
   };
   return (
     <>
-      <div className="flex h-screen items-center justify-center">
+      <div className="flex h-screen items-center justify-center ">
         <div
           id="my_modal_3"
           className="w-[600px] dark:shadow-white p-6 rounded-md"

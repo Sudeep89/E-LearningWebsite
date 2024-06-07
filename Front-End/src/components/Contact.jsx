@@ -15,7 +15,7 @@ function Contact() {
           <h1 className="pt-20 text-2xl font-semibold md:text-4xl animate-pulse bg-gradient-to-r from-pink-500  to-violet-500 bg-clip-text text-transparent">
             Contact Us
           </h1>
-          <div className=" w-80 h-96 md:ml-96 ml-12 mt-4 border border-blue-500 shadow-lg">
+          <div className=" w-80 h-96 md:ml-96 ml-10 mt-4 border border-blue-500 shadow-lg">
             <form onSubmit={handleSubmit(onSubmit)} action="">
               {/* Email Details */}
               <div className="mt-4 space-y-2">
@@ -24,7 +24,7 @@ function Contact() {
                 <input
                   type="text"
                   placeholder="Enter your Name"
-                  className="w-70 px-3 border rounded-md outline-none dark:bg-slate-900 dark:text-white"
+                  className="w-70 px-3 border rounded-md outline-none dark:bg-slate-900 dark:text-white text-center"
                   {...register("text", { required: true })}
                 />
                 <br />
@@ -41,7 +41,7 @@ function Contact() {
                 <input
                   type="email"
                   placeholder="Enter your Email"
-                  className="w-70 px-3 border rounded-md outline-none dark:bg-slate-900 dark:text-white"
+                  className="w-70 px-3 border rounded-md outline-none dark:bg-slate-900 dark:text-white text-center"
                   {...register("email", { required: true })}
                 />
                 <br />
@@ -57,7 +57,7 @@ function Contact() {
                 <textarea
                   name="message"
                   placeholder="Enter your Email"
-                  className="w-70 px-3 border rounded-md outline-none dark:bg-slate-900 dark:text-white"
+                  className="w-70 px-3 border rounded-md outline-none dark:bg-slate-900 dark:text-white text-center"
                   {...register("message", { required: true })}
                 ></textarea>
                 <br />
